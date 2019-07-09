@@ -1,4 +1,4 @@
-![](name-of-recipe.gif) 
+![](recipe.gif) 
 
 
 
